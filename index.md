@@ -8,7 +8,7 @@
 
 ### 基本信息
 口号：长老般的人，长老般的作品
-建立时间：2019年12月24日
+<br/>建立时间：2019年12月24日
 ### 加入QQ群：
 <img src="https://user-images.githubusercontent.com/103264657/162602170-8207256f-455e-4be4-8ace-937d83fcead2.png">
 <br/><a href="https://jq.qq.com/?_wv=1027&k=q89v0jm7">直接点击加入</a>
